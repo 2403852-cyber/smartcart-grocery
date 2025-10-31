@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SmartCart Groceries</title>
+</head>
+<body>
+<h1>SmartCart Groceries</h1>
+
+<nav>
+<a href="index.html">Home</a> |
+<a href="products.html">Products</a> |
+<a href="cart.html">Cart</a> |
+<a href="checkout.html">Checkout</a>
+</nav>
+
+<hr>
+
+<h2>Fresh Groceries Delivered to Your Doorstep</h2>
+<p>Welcome to SmartCart — your trusted online grocery store.</p>
+
+<input type="text" placeholder="Search groceries...">
+
+<h3>Popular Categories</h3>
+<ul>
+<li>Fruits & Vegetables</li>
+<li>Grains & Cereals</li>
+<li>Dairy Products</li>
+<li>Home Essentials</li>
+</ul>
+
+<p><b>Offer:</b> Free delivery for orders above KES 1,000!</p>
+
+</body>
+</html>
